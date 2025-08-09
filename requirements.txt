@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-experimental
+generative-ai-hub-sdk
+pandas
+SQLAlchemy
+openpyxl
+python-dotenv
+google-api-core
+langchain-openai
