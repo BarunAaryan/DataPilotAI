@@ -114,7 +114,7 @@ python main.py
 ---
 
 ## License
-[MIT License](LICENSE)  # Update as appropriate
+[MIT License](LICENSE)  
 
 ---
 
